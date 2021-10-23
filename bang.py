@@ -64,7 +64,7 @@ def seeker():
 #tampilan
 print ("\033[1;36m===============================================")
 os.system("figlet Tools | lolcat")
-os.system("figlet Mr.jhon | lolcat")
+os.system("figlet Mr.john | lolcat")
 os.system("date | lolcat")
 print ("\033[0;36mAuthor : HANIF ")
 print ("\033[1;36m+++++++++++++++++++++++++++++++++++++++++++++++")
