@@ -59,7 +59,7 @@ echo
 	echo "	   [1] install bahan " | lolcat
 	echo "	   [2] Hekhekan " | lolcat
 	echo "	   [3] deface web " | lolcat
-	echo "	   [4] Mr.jhon " | lolcat
+	echo "	   [4] Mr.john " | lolcat
 	echo "           [5] keluar " | lolcat
 	echo "	   =============== " | lolcat
 echo -n "masukan pilihan : " | lolcat
