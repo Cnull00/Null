@@ -22,3 +22,9 @@ $pkg install pip
 $pip2 install requests
 
 $pkg install git
+
+$git clone https://github.com/Cnull00/Null
+
+$cd Null
+#menjalankan
+$bash tes.sh
